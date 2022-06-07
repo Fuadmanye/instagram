@@ -4,7 +4,7 @@ INSTAGRAM
 ## Author Name
 Fuad Manyi
 ## Description
-A personal gallery application that you display your photos for others to see.
+This is a web application to showcase beautiful pictures and designs. Users can view photos updated by other users like and comment on those images.
 
 
 ## Setup/Installation Requirements
