@@ -24,6 +24,9 @@ This is a web application to showcase beautiful pictures and designs. Users can 
 
 * python3 manage.py runserver
 
+## Known bugs
+By the date of release the number of followers would not increase despite being followed 
+
 ## Technologies Used
 * Django
 * Html
